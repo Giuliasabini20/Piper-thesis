@@ -24,3 +24,15 @@ limits = [
     -75/180*pi,   75/180*pi;   % Giunto 5
     -120/180*pi,  120/180*pi    % Giunto 6
     ];
+    % LIMITI DI VELOCITA' DEI 6 GIUNTI
+% Valori da verificare sul Piper in laboratorio
+% Unità: rad/s
+
+qd_max = [
+    NaN;
+    NaN;
+    NaN;
+    NaN;
+    NaN;
+    NaN
+    ];
